@@ -1,0 +1,81 @@
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Курсовая (Магазин компьютерных комплектующих).exe
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Курсовая (Магазин компьютерных комплектующих).deps.json
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Курсовая (Магазин компьютерных комплектующих).runtimeconfig.json
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Курсовая (Магазин компьютерных комплектующих).dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Курсовая (Магазин компьютерных комплектующих).pdb
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Курсовая (Магазин компьютерных комплектующих).csproj.AssemblyReference.cache
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Курсовая (Магазин компьютерных комплектующих)_MarkupCompile.cache
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Курсовая (Магазин компьютерных комплектующих)_MarkupCompile.lref
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Курсовая (Магазин компьютерных комплектующих).g.resources
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Курсовая (Магазин компьютерных комплектующих).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Курсовая (Магазин компьютерных комплектующих).AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Курсовая (Магазин компьютерных комплектующих).AssemblyInfo.cs
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Курсовая (Магазин компьютерных комплектующих).csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Курсовая (Магазин компьютерных комплектующих).dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\refint\Курсовая (Магазин компьютерных комплектующих).dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Курсовая (Магазин компьютерных комплектующих).pdb
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Курсовая (Магазин компьютерных комплектующих).genruntimeconfig.cache
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\ref\Курсовая (Магазин компьютерных комплектующих).dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Castle.Core.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\MySqlConnector.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Form\Vivod.g.cs
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Form\Vivod.baml
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Курсовая (Магазин компьютерных комплектующих).csproj.CopyComplete
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Form\MainWindow.g.cs
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Form\MainWindow.baml
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\App.baml
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Курсовая (Магазин компьютерных комплектующих)_Content.g.cs
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Form\registr.g.cs
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Form\registr.baml
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Form\page\infProd.g.cs
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Form\page\infProd.baml
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Form\page\mainProduct.g.cs
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Form\page\mainProduct.baml
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Form\addProduct.g.cs
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Form\addProduct.baml
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Form\page\basket.g.cs
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Form\page\orderSpisok.g.cs
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Form\page\basket.baml
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\obj\Debug\net7.0-windows\Form\page\orderSpisok.baml
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\PdfSharp.Charting.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\PdfSharp.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\de\PdfSharp.resources.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\AWSSDK.Core.dll
+C:\Users\Emil\source\repos\Курсовая (Магазин компьютерных комплектующих)\Курсовая (Магазин компьютерных комплектующих)\bin\Debug\net7.0-windows\AWSSDK.SimpleNotificationService.dll

@@ -1,0 +1,90 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>Курсовая__Магазин_компьютерных_комплектующих_</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>image\Logo\icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Form\info.png" />
+    <None Remove="Form\page\addProductIMG.png" />
+    <None Remove="Form\page\Bascet.png" />
+    <None Remove="Form\page\exitAcc.png" />
+    <None Remove="Form\page\info.png" />
+    <None Remove="Form\page\logo.jpg" />
+    <None Remove="Form\Trash..png" />
+    <None Remove="Form\Trash.png" />
+    <None Remove="image\Logo\emtiTovar.png" />
+    <None Remove="image\Logo\krestik.png" />
+    <None Remove="image\Logo\logo.jpg" />
+    <None Remove="image\productPhoto\11ea73b02406f137742271272c2812e5.jpg" />
+    <None Remove="image\productPhoto\2000 ГБ SSD M.2 Samsung 970 EVO Plus.jpg" />
+    <None Remove="image\productPhoto\4090.jpg" />
+    <None Remove="image\productPhoto\8f12565ae19a404ea4459437b5.jpg" />
+    <None Remove="image\productPhoto\AeroCool KCAS PLUS GOLD 750W.jpg" />
+    <None Remove="image\productPhoto\AMD Ryzen 5 5600X OEM.jpg" />
+    <None Remove="image\productPhoto\AMD Ryzen 9 7900X OEM.jpg" />
+    <None Remove="image\productPhoto\be quiet! SYSTEM POWER.jpg" />
+    <None Remove="image\productPhoto\DEEPCOOL LE500 Marrs.jpg" />
+    <None Remove="image\productPhoto\GIGABYTE B650 AORUS PRO AX.jpg" />
+    <None Remove="image\productPhoto\Kingston FURY Beast Black.jpg" />
+    <None Remove="image\productPhoto\Kingston FURY Renegade Pro.jpg" />
+    <None Remove="image\productPhoto\MSI GeForce RTX 3070 VENTUS 3X OC.jpg" />
+    <None Remove="image\productPhoto\NullVlaue\NullValueImage.png" />
+    <None Remove="image\productPhoto\photo_2023-06-03_15-57-58.jpg" />
+    <None Remove="image\productPhoto\pT0D3DqKuUI.jpg" />
+    <None Remove="image\productPhoto\Кулер для процессора DARK ROCK PRO 4.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="image\Logo\icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.SimpleNotificationService" Version="3.7.101.78" />
+    <PackageReference Include="Extended.Wpf.Toolkit" Version="4.5.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="7.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="PdfSharp" Version="1.50.5147" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="7.0.0" />
+    <PackageReference Include="System.Drawing.Common" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Form\info.png" />
+    <Resource Include="Form\page\addProductIMG.png" />
+    <Resource Include="Form\page\Bascet.png" />
+    <Resource Include="Form\page\exitAcc.png" />
+    <Resource Include="Form\page\info.png" />
+    <Resource Include="Form\page\logo.jpg" />
+    <Resource Include="Form\Trash..png" />
+    <Resource Include="Form\Trash.png" />
+    <Resource Include="image\Logo\emtiTovar.png" />
+    <Resource Include="image\Logo\krestik.png" />
+    <Resource Include="image\Logo\logo.jpg" />
+    <Resource Include="image\productPhoto\11ea73b02406f137742271272c2812e5.jpg" />
+    <Resource Include="image\productPhoto\2000 ГБ SSD M.2 Samsung 970 EVO Plus.jpg" />
+    <Resource Include="image\productPhoto\4090.jpg" />
+    <Resource Include="image\productPhoto\AeroCool KCAS PLUS GOLD 750W.jpg" />
+    <Resource Include="image\productPhoto\AMD Ryzen 5 5600X OEM.jpg" />
+    <Resource Include="image\productPhoto\AMD Ryzen 9 7900X OEM.jpg" />
+    <Resource Include="image\productPhoto\be quiet! SYSTEM POWER.jpg" />
+    <Resource Include="image\productPhoto\DEEPCOOL LE500 Marrs.jpg" />
+    <Resource Include="image\productPhoto\GIGABYTE B650 AORUS PRO AX.jpg" />
+    <Resource Include="image\productPhoto\Kingston FURY Beast Black.jpg" />
+    <Resource Include="image\productPhoto\Kingston FURY Renegade Pro.jpg" />
+    <Resource Include="image\productPhoto\MSI GeForce RTX 3070 VENTUS 3X OC.jpg" />
+    <Resource Include="image\productPhoto\NullVlaue\NullValueImage.png" />
+    <Resource Include="image\productPhoto\photo_2023-06-03_15-57-58.jpg" />
+    <Resource Include="image\productPhoto\pT0D3DqKuUI.jpg" />
+    <Resource Include="image\productPhoto\Кулер для процессора DARK ROCK PRO 4.jpg" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,57 @@
+﻿<Window x:Class="Курсовая__Магазин_компьютерных_комплектующих_.Form.registr"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Курсовая__Магазин_компьютерных_комплектующих_.Form"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+
+        Title="PC Store" Height="460" Width="500">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="50"/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="50"/>
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="60"/>
+
+        </Grid.RowDefinitions>
+
+        <Image Source="\image\Logo\logo.jpg"  Grid.ColumnSpan="4" VerticalAlignment="Top"/>
+
+
+        <TextBlock Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" Text="Фамилия" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="25"/>
+        <TextBlock Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Text="Имя" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="25"/>
+        <TextBlock Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Text="Отчество" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="25"/>
+        <TextBlock Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" Text="Логин" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="25"/>
+        <TextBlock Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2" Text="Пароль" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="25"/>
+        <TextBlock Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="2" Text="Телефон" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="25"/>
+
+
+        <TextBox x:Name="SurnameBox" Grid.ColumnSpan="2" Grid.Column="2" Grid.Row="1" BorderBrush="Black" BorderThickness="2" Margin="5" MaxLength="45" PreviewTextInput="NumberValidationTextBox" FontSize="25"/>
+        <TextBox x:Name="NameBox" Grid.ColumnSpan="2" Grid.Column="2" Grid.Row="2" BorderBrush="Black" BorderThickness="2" Margin="5" MaxLength="45" PreviewTextInput="NumberValidationTextBox" FontSize="25"/>
+        <TextBox x:Name="PatronymicBox" Grid.ColumnSpan="2" Grid.Column="2" Grid.Row="3" BorderBrush="Black" BorderThickness="2" Margin="5" MaxLength="45" PreviewTextInput="NumberValidationTextBox" FontSize="25"/>
+        <TextBox x:Name="LoginBox" Grid.ColumnSpan="2" Grid.Column="2" Grid.Row="4" BorderBrush="Black" BorderThickness="2" Margin="5" MaxLength="45" FontSize="25"/>
+        <PasswordBox x:Name="PassBox" Grid.Column="2" Grid.Row="5" BorderBrush="Black" BorderThickness="2" Margin="5" MaxLength="45" FontSize="25"/>
+        <TextBox x:Name="SeePassBox" Grid.Column="2" Grid.Row="5" BorderBrush="Black" BorderThickness="2" Margin="5" Visibility="Hidden" MaxLength="45" FontSize="25"/>
+        <CheckBox x:Name="PokazPass" Grid.Row="5" Grid.Column="4" HorizontalAlignment="Center" VerticalAlignment="Center" Content="👀" Click="CheckBox_Click" />
+
+        <xctk:MaskedTextBox x:Name="PhoneNumber" Grid.Column="2" Grid.Row="6" Grid.ColumnSpan="2" Mask="+7(000) 000-00-00"  BorderBrush="Black" BorderThickness="2" Margin="5" MaxLength="45"  FontSize="25"/>
+
+        <Button x:Name="backBtn" Content="Назад" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="7" Margin="10,10,10,0" Height="40" VerticalAlignment="Top" Click="backBtn_Click"/>
+
+        <Button x:Name="regBtn" Content="Зарегистрироваться" Grid.Column="2" Grid.ColumnSpan="3" Grid.Row="7" Margin="10" Click="regBtn_Click"/>
+    </Grid>
+</Window>

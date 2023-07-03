@@ -1,0 +1,54 @@
+﻿<Window x:Class="Курсовая__Магазин_компьютерных_комплектующих_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Курсовая__Магазин_компьютерных_комплектующих_"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="PC Store" Height="450" Width="800" MinHeight="350" MinWidth="600">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+
+        </Grid.RowDefinitions>
+
+        <Image Source="\image\Logo\logo.jpg" Grid.RowSpan="9" Grid.ColumnSpan="3"/>
+                
+      
+            <TextBlock Text="Логин" Grid.Row="2" Grid.Column="3" Margin="0 10 0 0 " FontSize="20"/>
+            <TextBox x:Name="LoginBox" BorderBrush="Black" FontSize="20" BorderThickness="2" Grid.Row="3" Grid.Column="3" Grid.ColumnSpan="2"/>
+
+            <TextBlock Text="Пароль"  Grid.Row="4" Grid.Column="3" Margin="0 10 0 0 " FontSize="20"/>
+            <PasswordBox x:Name="PassBox" FontSize="20"  BorderBrush="Black" BorderThickness="2" Visibility="Visible" Grid.Row="5" Grid.Column="3" Grid.ColumnSpan="2"/>
+            <TextBox x:Name="PassSeeBox" FontSize="20"  BorderBrush="Black" BorderThickness="2" Visibility="Collapsed" Grid.Row="5" Grid.Column="3" Grid.ColumnSpan="2" />
+            <CheckBox x:Name="PokazPass" Content="👀" Margin="0 10 0 0" Click="PokazPass_Click" Grid.Row="6" Grid.Column="3" Grid.ColumnSpan="1"/>
+
+
+            <Button x:Name="LoginBTN" Content="Войти"  Grid.Row="7" Grid.Column="3"  Margin="5" Click="LoginBTN_Click"  />
+            <Button x:Name="RegisrtBTN" Content="Зарегистрироваться"  Grid.Row="7" Grid.Column="4" Margin="5" Click="RegisrtBTN_Click" />
+          
+      
+           
+
+
+    </Grid>
+</Window>
